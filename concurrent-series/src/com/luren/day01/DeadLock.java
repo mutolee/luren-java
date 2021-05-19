@@ -3,7 +3,7 @@ package com.luren.day01;
 /**
  * 死锁的例子
  */
-public class Deadlock {
+public class DeadLock {
 
     public static void main(String[] args) {
         Obj1 obj1 = new Obj1();
